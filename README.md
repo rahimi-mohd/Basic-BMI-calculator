@@ -1,1 +1,1 @@
-# Basic-BMI-calculator
+This is a basic BMI calculator i wrote in c++
